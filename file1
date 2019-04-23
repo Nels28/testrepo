@@ -1,7 +1,0 @@
-omplete these actions:
-
-Create a new empty repository on GitHub.
-On a Linux system, create a directory, add several non-empty files there (e.g. text files), initiate a new repository and create an initial commit.
-Add the GitHub repository as the remote to your git repository.
-Push the content of the repository to GitHub.
-Verify that the repository page lists the content of the repository.
