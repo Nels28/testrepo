@@ -1,0 +1,18 @@
+
+<?php
+// Write your code below:
+function increaseEnthusiasm($any_string) {
+
+return $any_string . "!";
+
+}
+
+echo increaseEnthusiasm("hi");
+
+function repeatThreeTimes($str) {
+
+return $str . $str . $str;
+
+}
+
+echo repeatThreeTimes("hello");
